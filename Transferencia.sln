@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transferencia", "Transferencia\Transferencia.csproj", "{64452F97-156F-4BE9-B58D-614084ABC630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferenciaTest", "TransferenciaTest\TransferenciaTest.csproj", "{A5FC2CC3-F999-48E3-BA41-C9D60FF2D589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64452F97-156F-4BE9-B58D-614084ABC630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64452F97-156F-4BE9-B58D-614084ABC630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64452F97-156F-4BE9-B58D-614084ABC630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64452F97-156F-4BE9-B58D-614084ABC630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FC2CC3-F999-48E3-BA41-C9D60FF2D589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FC2CC3-F999-48E3-BA41-C9D60FF2D589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FC2CC3-F999-48E3-BA41-C9D60FF2D589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FC2CC3-F999-48E3-BA41-C9D60FF2D589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2693963-4652-4E1B-8648-FFB3AB754AF0}
+	EndGlobalSection
+EndGlobal
